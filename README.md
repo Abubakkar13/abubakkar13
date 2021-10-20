@@ -5,7 +5,7 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/abubakkar13/github-stats">
   
@@ -14,7 +14,7 @@
 
 </a>
 
-</div>
+</div> -->
 
 
 <br />
