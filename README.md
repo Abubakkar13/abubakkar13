@@ -1,6 +1,6 @@
 # **Hi there :wave:**
 
-- 🔭 **I’m currently working as Software Engineer**
+- 🔭 **I’m currently working as Software Engineer**<br>
  🌱 **I’m currently learning Core and Adv. Java**
 
 ### Languages:
@@ -48,4 +48,4 @@
 
 
 ## Best Regards,
-### _**Abubakkar Siddiqe**_
+_**Abubakkar Siddiqe**_
