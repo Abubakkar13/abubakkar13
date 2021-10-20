@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <img align="left" alt="Spring boot" width="26px" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8551-a9e143ea0c5d.png" />
 <img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
