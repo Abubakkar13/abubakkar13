@@ -47,11 +47,12 @@
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" /> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 
 <br />
+
 ### Statistics:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=abubakkar13&count_private=true&theme=tokyonight&showicons=true)]()
+[![Account Stats](https://github-readme-stats.vercel.app/api/?username=abubakkar13&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar13&langs_count=5&theme=tokyonight)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar13&langs_count=5&theme=tokyonight)]()
 
 <br />
 
