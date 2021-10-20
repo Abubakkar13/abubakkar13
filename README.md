@@ -3,6 +3,23 @@
 - 🔭 **I’m currently working as Software Engineer**<br>
 - 🌱 **I’m currently learning Core and Adv. Java**
 
+<br />
+
+<div align="center">
+
+<a href="https://github.com/abubakkar13/github-stats">
+  
+![](https://raw.githubusercontent.com/abubakkar13/github-stats/master/generated/overview.svg)
+![](https://github.com/abubakkar13/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
+
+
+<br />
+
+
 ### Languages:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -48,11 +65,7 @@
 
 <br />
 
-### Statistics:
-
-[![Account Stats](https://github-readme-stats.vercel.app/api/?username=abubakkar13&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar13&langs_count=5&theme=tokyonight)]()
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar13&layout=compact)](https://github.com/abubakkar13/github-readme-stats)
 
 <br />
 
