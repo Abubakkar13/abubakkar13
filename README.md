@@ -48,5 +48,9 @@
 
 <br />
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar13&layout=compact)](https://github.com/abubakkar13/github-readme-stats)
+
+<br />
+
 ## Best Regards,
 _**Abubakkar Siddiqe**_
