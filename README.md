@@ -1,9 +1,8 @@
-# Hi there :wave:
+# **Hi there :wave:**
 
-
-- 🔭 I’m currently working as Software Engineer
-- 🌱 I’m currently learning Core and Adv. Java
-
+_**- 🔭 I’m currently working as Software Engineer
+ 🌱 I’m currently learning Core and Adv. Java
+**_
 ### Languages:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,3 +45,7 @@
 ### Terminals:
 
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" /> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+
+**
+Best Regards,
+Abubakkar Siddiqe**
