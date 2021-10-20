@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+<br/>
+
 ### Tools:
+
+<br/>
 
 <img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
@@ -35,7 +39,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=green" />
 
 <br/>
 
