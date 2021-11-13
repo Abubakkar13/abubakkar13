@@ -1,7 +1,7 @@
 # **Hi there :wave:**
 
 - 🔭 **I’m currently working as Software Engineer**<br>
-- 🌱 **I’m currently learning Core and Adv. Java**
+- 🌱 **Learning Core and Adv. Java**
 
 <br />
 
