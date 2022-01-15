@@ -70,4 +70,4 @@
 <br />
 
 ## Best Regards,
-_**Abubakkar Siddiqe**_
+_**Abubakkar Siddique**_
