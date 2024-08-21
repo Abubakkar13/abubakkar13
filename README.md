@@ -3,6 +3,8 @@
 - 🔭 **I’m currently working as Software Engineer**<br>
 - 🌱 **Learning Core and Adv. Java**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abubakkar13)](https://git.io/streak-stats)
+
 <br />
 
 <!-- <div align="center">
